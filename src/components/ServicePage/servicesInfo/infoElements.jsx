@@ -53,7 +53,7 @@ export const TextWrapper = styled.div `
 `
 
 export const TopLine = styled.p`
-    color: #0cd61d;
+    color: #030303;
     font-size: 16px;
     line-height: 16px;
     font-weight: 700;
@@ -82,7 +82,7 @@ export const Subtitle = styled.p`
     font-size: 18px;
     line-height: 24px;
     text-align: justify;
-    color: ${({darkText}) => (darkText ? '#f70000' : " #fff")};
+    color: ${({darkText}) => (darkText ? '#070707' : " #fff")};
 `
 export const BtnWrap = styled.div `
     display: flex;

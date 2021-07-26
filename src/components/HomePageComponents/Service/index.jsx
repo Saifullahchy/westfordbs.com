@@ -12,18 +12,20 @@ import { ServicesContainer,
         ServicesCard,
         ServicesIcon,
         ServicesWrapper } from './ServiceElements'
+import { Link  } from 'react-router-dom'
+import styled from 'styled-components'
 
 const Services = () => {
     return (
         <ServicesContainer id="services"> 
             <ServicesH1> OUR SERVICES</ServicesH1>
                 <ServicesWrapper>
-                    <ServicesCard>
+                   <Link to='immigrate'> <ServicesCard>
                         <ServicesIcon src= {Icon1}/>
                         <ServicesH2>Immigrate to Canada</ServicesH2>
                         <ServicesP>Details on how to make your dream of moving to Canada come true. More than 100 programs to choose from.
                         </ServicesP>
-                    </ServicesCard>
+                    </ServicesCard></Link>
                     <ServicesCard>
                         <ServicesIcon src= {Icon2}/>
                         <ServicesH2>Study Permit</ServicesH2>

@@ -1,5 +1,5 @@
 .navbarContainer{
-    background: #f70000;
+    background: #991A1E;
     width: 100%;
     height: 120px;
     display: flex;
@@ -43,7 +43,7 @@ img.logo{
     background-color: rgb(255, 255, 255);
     border-radius: 4px;
     transition: all 0.2s ease-out;
-    color: #f70000;
+    color: #991A1E;
   }
   
   .fa-bars {
@@ -78,7 +78,7 @@ img.logo{
     }
   
     .nav-menu.active {
-      background: #f70000;
+      background: #991A1E;
       left: 0;
       opacity: 1;
       transition: all 0.5s ease;
@@ -133,7 +133,7 @@ img.logo{
       width: 80%;
       background: #fff;
       text-decoration: none;
-      color: #f70000;
+      color: #DC143C;
       font-size: 1.5rem;
     }
   

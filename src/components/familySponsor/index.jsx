@@ -109,9 +109,9 @@ const FamilySponsor = () => {
                 {/* Sponsor wife,husband etc section */}
 
                 <div className="fm-section" id='fm-2'>
-                    <h3 className="fm-h3"><a href="https://www.canadavisa.com/canadian-family-sponsorship-visa.html#SponsorSpouse" className="link-title">Sponsor your Wife, Husband, or Common-law Partner</a></h3>
+                    <h3 className="fm-h3"><a href="" className="link-title">Sponsor your Wife, Husband, or Common-law Partner</a></h3>
 
-                    <p className="fm-text"><a href="https://www.canadavisa.com/spousal-and-common-law-partner-sponsorship.html#gs.knnbs5" className="link">Spouse or Common Law-Partner Sponsorship</a></p>
+                    <p className="fm-text"><a href="" className="link">Spouse or Common Law-Partner Sponsorship</a></p>
         	        <p className="fm-text">
                     If you are a Canadian citizen or permanent resident of Canada you may sponsor:
                     <ul>

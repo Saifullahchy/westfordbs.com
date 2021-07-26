@@ -4,7 +4,7 @@ import styled from 'styled-components'
 
 const ContactContainer = styled.div `
     width: 100%;
-    background: #f70000;
+    background: #991A1E;
 `
 const ContactWrapper = styled.div`
     padding: 3px;
