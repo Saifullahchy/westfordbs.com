@@ -18,6 +18,13 @@
     display: flex;
     justify-content: center;
 }
+@media screen and (max-width:480px) {
+    .immigrate-container{
+        max-width: 100%;
+        padding: 10px;
+        margin: 0;
+    }
+}
 .im-image{
     height: auto;
     width: 100%;
@@ -32,6 +39,13 @@
     flex-direction: column;
     justify-content: center;
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+@media screen and (max-width:480px) {
+    .im-infoWrapper{
+        max-width: 100%;
+        padding: 0px;
+        margin: 0;
+    }
 }
 .link{
     text-decoration: none;

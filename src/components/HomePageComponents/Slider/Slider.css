@@ -3,6 +3,7 @@
   display: flex;
   position: relative;
   overflow: hidden;
+  margin-top: 50px;
 }
 .slide-image {
   height: 100%;

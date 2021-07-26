@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.car-container{
+    padding: 20px;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+@media screen and (max-width:768px) {
+    .car-container{
+        padding: 3px;
+        margin: 5px;
+    }
+}
+.car-wrapper{
+    width:auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background: rgb(179, 8, 36);
+   
+}
+@media screen and (max-width:960px) {
+    .car-wrapper{
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+}
+.car-h1{
+    color: rgb(252, 252, 252);
+    font-size: 100px;
+    font-family: 'Anton', sans-serif;
+}
+@media screen and (max-width:768px) {
+    .car-h1{
+    font-size: 50px;
+
+    }
+}
+.car-content {
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 60px;
+}
+@media screen and (max-width:960px) {
+    .car-content{
+            padding: 30px;
+            justify-content: center;
+    }
+}
+.car-img{
+    height: auto;
+    width: 100%;
+}
+.car-img-s{
+    height: auto;
+    width: 100%;
+}
+
+.btn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.2rem;
+    width: 200px;
+    align-items: center;
+    text-align: center;
+}
+.car-text{
+    margin-top: 30px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: #fff;
+}
+.car-text-black{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    color: rgb(179, 8, 36);
+    text-align: center;
+}
+.car-text-b{
+    text-align: center;
+}

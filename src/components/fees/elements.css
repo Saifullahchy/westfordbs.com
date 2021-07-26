@@ -14,9 +14,10 @@
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
 .fee-img{
-    height: auto;
-    width: 100%;
-    margin-bottom: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 .fee-section{
     margin: 10px;

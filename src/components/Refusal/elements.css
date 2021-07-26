@@ -4,6 +4,13 @@
     display: flex;
     justify-content: center;
 }
+@media screen and (max-width:480px) {
+    .r-container{
+        max-width: 100%;
+        padding: 10px;
+        margin: 0;
+    }
+}
 .r-wrapper{
     max-width: 1200px;
     padding: 30px;
@@ -12,6 +19,13 @@
     flex-direction: column;
     justify-content: center;
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+@media screen and (max-width:480px) {
+    .r-wrapper{
+        max-width: 100%;
+        padding: 0px;
+        margin: 0;
+    }
 }
 .r-img{
     height: auto;
