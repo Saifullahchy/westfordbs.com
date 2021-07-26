@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+.ab-container{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.content-wrapper{
+    max-width: 800px;
+    padding: 30px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+.ab-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.title{
+    margin: 40px 20px;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    color: rgb(241, 19, 19);;
+}
+.ab-title{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    color: rgb(241, 19, 19);;
+}
+.ab-text{
+    text-align: justify;
+    padding: 10px;
+    font-size: 1.2rem;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+
+}
+span{
+    font-size: 1.3rem;
+    font-weight: bold;
+    color:rgb(241, 19, 19);
+}
+.list{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.list-item{
+    display: inline;
+    text-align: justify;
+    font-size: 1.2rem;
+    color:rgb(241, 19, 19);
+    font-weight: bold;
+    cursor: pointer;
+}
+.social-meida-container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.icons{
+    padding: 20px;
+    font-size: 1.5rem;
+    color: black;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+}
+.icons:hover{
+    background: rgb(241, 19, 19);
+    color: white;
+}
+.social-meida-container .icons{
+    align-items: center;
+}

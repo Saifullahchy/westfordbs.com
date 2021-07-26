@@ -1,0 +1,58 @@
+.w-container{
+    padding: 20px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+.w-wrapper{
+    max-width: 1200px;
+    padding: 30px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+.w-img{
+    height: auto;
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.w-title{
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline 5px  ;
+    padding: 5px ;
+    color:rgb(189, 8, 8);
+}
+.w-h2{
+    color: rgb(189, 8, 8);
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 1.4rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.w-text{
+    padding: 5px; 
+    text-align: justify;
+}
+.w-text-c{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.w-h5{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    text-decoration: underline;
+    color:rgb(189, 8, 8);
+    text-align: center;
+}
+.w-h3{
+    color: rgb(189, 8, 8);
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 1.4rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
