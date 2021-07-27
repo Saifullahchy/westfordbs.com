@@ -1,8 +1,9 @@
 import React from 'react'
+import Booking from '../booking'
 
 const Appointment = () => {
     return (
-        <h1 className ="appointment"> Hello Appointment </h1>
+       <Booking/>
     )
 }
 
