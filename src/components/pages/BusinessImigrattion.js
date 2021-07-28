@@ -1,9 +1,10 @@
 import React from 'react'
+import BusinessPage from '../Business'
 
 const BusinessImigrattion = () => {
     return (
         <>
-            <h1 className="Business-immigration"> Business Immigration</h1>
+           <BusinessPage/>
         </>
     )
 }

@@ -9,6 +9,7 @@ const [buttonPopup, setButtonPopup] = useState(false);
     return (
 
         <div className="body-container">
+           
         <div className="price-comparison">
             <div className="price-column">
                 <div className="price-header">
@@ -56,6 +57,7 @@ We will not be able to review/assess profile or documents or NOC during the disc
                 <div className="divider"></div>
             </div>
         </div>
+        
         </div>
     )
 }

@@ -1,0 +1,71 @@
+.cont-container{
+    display: flex;
+    justify-content: center;
+  
+}
+
+.cont-wrapper{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background:#991A1E;
+    height: 100vhx;
+    padding: 30px;
+    margin: 10px;
+}
+@media screen and (max-width:768px) {
+    .cont-wrapper{
+        flex-direction: column;
+    }
+}
+.infowrapper{
+    width: 100% ;
+   padding: 20px;
+  
+}
+.cont-h1{
+    margin: 10px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .cont-el{
+    display: flex;
+    justify-content: flex-start;
+     padding: 5px;
+     
+ }
+ .fa-mobile{
+     font-size: 1.5rem;
+     color: #fff;
+     padding: 5px;
+ }
+ .fa-whatsapp{
+    font-size: 1.5rem;
+    color: #fff;
+    padding: 5px;
+ }
+ .con-text{
+    font-size: 1rem;
+     color: #fff;
+     padding: 5px;
+ }
+ .fa-envelope-open-o{
+
+    font-size: 1.5rem;
+    color: #fff;
+    padding: 5px;
+ }
+ .fa-map-pin{
+    font-size: 1.5rem;
+    color: #fff;
+    padding: 5px;
+ }
+ .cont-map{
+     
+     height: auto;
+     width: 310px;
+     border: solid 2px white;
+     border-radius: 5px;
+ }

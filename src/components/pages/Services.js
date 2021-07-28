@@ -1,5 +1,5 @@
 import React from 'react'
-import ServiceGrid from '../ServicePage/headerGrid'
+
 import InfoSection from '../ServicePage/servicesInfo'
 import { homeObjFive, homeObjFour, homeObjOne, homeObjSix, homeObjThree, homeObjTwo } from '../ServicePage/servicesInfo/data'
 
