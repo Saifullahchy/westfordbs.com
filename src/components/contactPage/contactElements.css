@@ -1,41 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 .cont-container{
+    padding: 20px;
+    margin: 30px;
+   
     display: flex;
+    flex-direction: column;
     justify-content: center;
-  
+}
+@media screen and (max-width:768px) {
+    .cont-container{
+        padding: 3px;
+        margin: 5px;
+    }
 }
 
 .cont-wrapper{
-    
+    width:auto;
     display: flex;
-    justify-content: center;
     flex-direction: column;
-    background:#991A1E;
-    height: 100vhx;
-    padding: 30px;
-    margin: 10px;
+    justify-content: center;
+    background: rgb(179, 8, 36);
 }
 @media screen and (max-width:768px) {
     .cont-wrapper{
-        flex-direction: column;
+        
+            flex-direction: column;
+            justify-content: center;
+            
     }
 }
 .infowrapper{
-    width: 100% ;
+   min-width: 400px auto;
    padding: 20px;
-  
+}
+@media screen and(max-width: 768px) {
+    .infowrapper{
+        width: auto;
+    }
 }
 .cont-h1{
-    margin: 10px;
+    color: rgb(252, 252, 252);
+    font-size: 50px;
+    font-family: 'Anton', sans-serif;
     text-align: center;
-    color: #fff;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
  .cont-el{
     display: flex;
-    justify-content: flex-start;
-     padding: 5px;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    
      
  }
+ @media screen and(max-width: 768px) {
+    .cont-el{
+        width: auto;
+    }
+}
  .fa-mobile{
      font-size: 1.5rem;
      color: #fff;
@@ -64,8 +85,13 @@
  }
  .cont-map{
      
-     height: auto;
-     width: 310px;
+     height: 100%;
+     width: 100%;
      border: solid 2px white;
      border-radius: 5px;
+ }
+ @media screen and (max-width:768px) {
+     .cont-map{
+         width: auto;
+     }
  }

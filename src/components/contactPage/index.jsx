@@ -4,8 +4,8 @@ import './contactElements.css'
 
 function Map(){
     return (
-      <GoogleMap  defaultZoom={10}
-                defaultCenter={{lat:23.8103, lng:90.4125}}
+      <GoogleMap  defaultZoom={20}
+                defaultCenter={{lat:23.773201, lng:90.413347}}
                 
       />
      
@@ -46,7 +46,7 @@ const Contact = () => {
               </div>
               <div className="cont-map" >
                <WrappedMap 
-               googleMapURL={'https://maps.googleapis.com/maps/api/js?key=AIzaSyA8INND3dqYvxIvSHbqyH6fiQyQNr-5aWo&callback=initMap'}
+               googleMapURL={`https://maps.googleapis.com/maps/api/js?key=AIzaSyBrQ98WJ9ysUumIQIMczSR0BjbpyCB_6o8&v=3.exp&libraries=geometry,drawing,places`}
                loadingElement={<div style={{ height: `100%` }} />}
                containerElement={<div style={{ height: `500px` }} />}
                mapElement={<div style={{ height: `100%` }} />}

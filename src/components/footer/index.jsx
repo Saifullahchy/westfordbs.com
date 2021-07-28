@@ -1,5 +1,6 @@
 import React from 'react'
 import {animateScroll as scroll} from 'react-scroll';
+import { Link } from 'react-router-dom';
 import logo from '../../assets/images/logored.png'
 // import {DialPad} from 'frh-react-dial-pad'
 import {FaFacebook, FaInstagram ,FaYoutube , FaTwitter, FaLinkedin} from 'react-icons/fa'
@@ -88,6 +89,7 @@ const Footer = () => {
                         </SocialIcon>
                     </SocialMediaWrap>
                 </SocialMedia>
+                <WebsiteRights> Develop By <a className='link' href='https://www.linkedin.com/in/saifullah-chowdhury-bb0005159/'> <br /> Saifullah Chowdhury</a> </WebsiteRights>
             </FooterWrap>
         </FooterContainer>
     )

@@ -1,9 +1,10 @@
 import React from 'react'
+import News from '../LatestNews'
 
 const LatestNews = () => {
     return (
         <>
-            <h1 className="news">Latest News</h1>
+            <News/>
         </>
     )
 }

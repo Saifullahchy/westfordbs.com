@@ -3,13 +3,12 @@ import './popup.css'
 const Popup = (props) => {
     return (props.trigger) ? (
         <div className="popup">
-            <div className="popup-inner">
-            <button className="close" onClick= {()=> props.setTrigger(false)}>
-                    <i className="fas fa-times"></i>
-                </button>
-                <div className='popup-elements'> {props.children}</div>
-                
-               
+             {/* <i className="fas fa-times" onClick= {()=> props.setTrigger(false)}/> */}
+            <div className="popup-inner" onClick= {()=> props.setTrigger(false)}>
+            
+                <div className='popup-elements'  > {props.children}
+                <button className="close" onClick= {()=> props.setTrigger(false)}>
+                close</button></div>
             </div>
            
         </div>
