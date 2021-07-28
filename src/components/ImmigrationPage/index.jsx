@@ -47,6 +47,8 @@ There are over 100 different ways to immigrate to Canada. For that reason, every
 For example, there are many different ways for professionals and workers to qualify for a Canada Immigration permanent resident visa. The most prominent option is through Express Entry, which is Canada's main pathway for economic class skilled workers. Your best bet to be eligible under Express Entry is to meet the requirements of either the Federal Skilled Worker Program (FSWP) or Canadian Experience Class (CEC). Canada's second largest pathway for skilled workers is the Provincial Nominee Program (PNP). Nearly every province and territory operates the PNP so they can select immigrants that meet the needs of their local job markets. The third major option is immigrating to the province of Quebec, which operates notable pathways such as the Quebec Skilled Worker Program and the Quebec Experience Class. 
 If you want to obtain Canadian permanent residence as a business immigrant, you have a number of options such as the Federal Self-Employed Program, the Start-up Visa, and entrepreneur programs operated under the PNP and by Quebec.
 Canada offers a number of family class sponsorship programs. Through these programs, Canadian citizens and permanent residents may sponsor family members and loved ones for Canadian immigration
+<br /><br />
+
                 </p>
                 <h5 className="5-im-h5">
                 COVID-19: Impact on Canada's Immigration System
@@ -55,10 +57,11 @@ Canada offers a number of family class sponsorship programs. Through these progr
                 
                     <p className="im-text">
                     The global coronavirus pandemic is impacting Canada's immigration system. Nonetheless, since the start of the pandemic, the Canadian government has maintained a strong commitment to processing immigration applications to the best of its ability. The department of Immigration, Refugees and Citizenship Canada (IRCC) continues to welcome new immigration applications and is processing as many of them as it can so that immigrants can come to Canada during and after the pandemic. Express Entry draws continue to occur approximately every two weeks with candidates all over the world receiving permanent residence invitations.
-Moreover, the pandemic has led to Canada strengthening its commitment to immigration. Near the end of 2020, Canada announced it will increase its annual immigration target to over 400,000 new immigrants per year, which is the highest level in its history. Prior to the COVID-19 pandemic, Canada's target was over 340,000 new immigrants per year. At the beginning of 2021, Canada's Immigration Minister Marco Mendicino expressed confidence that these high immigration targets are realistic during the pandemic. Please visit CanadaVisa's COVID-19 page for the latest updates.
+Moreover, the pandemic has led to Canada strengthening its commitment to immigration. Near the end of 2020, Canada announced it will increase its annual immigration target to over 400,000 new immigrants per year, which is the highest level in its history. Prior to the COVID-19 pandemic, Canada's target was over 340,000 new immigrants per year. At the beginning of 2021, Canada's Immigration Minister Marco Mendicino expressed confidence that these high immigration targets are realistic during the pandemic.
         <br /><br />
-                   <a href="" className="link">Complete our free assessment to find out if you are eligible to immigrate to Canada</a> 
+                 
                     </p>
+                    <a href="https://forms.gle/DJCM8sBrqnubziAp7" className="link">Complete our free assesment to find out if you are eligible to immigrate to Canada</a>
               
                 </div>
                 <div className="im-section" id='im-2'>
@@ -81,7 +84,7 @@ Moreover, the pandemic has led to Canada strengthening its commitment to immigra
                     Skilled Worker Immigration Pathways
                     </h3>
                     <p className="im-text">
-                    Under its <a href="https://www.canadavisa.com/canada-immigration-levels-plans.html" className="link">Immigration Levels Plan</a> , Canada aims to welcome over 400,000 immigrants every year. Some 60 per cent of these immigrants arrive as skilled workers. The main way skilled workers can immigrate to Canada is through the Express Entry application management system. The second main way is through the Provincial Nominee Program (PNP), followed by Quebec’s skilled worker programs, and then a few other targeted federal programs.
+                    Under its Immigration Levels Plan, Canada aims to welcome over 400,000 immigrants every year. Some 60 per cent of these immigrants arrive as skilled workers. The main way skilled workers can immigrate to Canada is through the Express Entry application management system. The second main way is through the Provincial Nominee Program (PNP), followed by Quebec’s skilled worker programs, and then a few other targeted federal programs.
 
                     </p>
                     <h5 className="im-h5">
@@ -114,42 +117,42 @@ Moreover, the pandemic has led to Canada strengthening its commitment to immigra
                     Express Entry
                     </h3>
                     <p className="im-text">
-                  <a href="https://www.canadavisa.com/express-entry.html" className="link">Express Entry</a>   is Canada’s main way of managing skilled worker applications through the three main economic class immigration programs:
+                 Express Entry   is Canada’s main way of managing skilled worker applications through the three main economic class immigration programs:
                     </p>
                     <ul>
-                        <li> <a href="https://www.canadavisa.com/federal-skilled-worker-program-fswp.html" className="link">Federal Skilled Worker Program (FSWP)</a></li>
-                        <li><a href="https://www.canadavisa.com/canadian-experience-class.html" className="link">Canadian Experience Class (CEC)</a></li>
-                        <li><a href="https://www.canadavisa.com/canada-federal-skilled-trades-program-fstc.html" className="link">Federal Skilled Trades Program (FSTP)</a></li>
+                        <li> Federal Skilled Worker Program (FSWP)</li>
+                        <li>Canadian Experience Class (CEC)</li>
+                        <li>Federal Skilled Trades Program (FSTP)</li>
                     </ul>
                     <p className="im-text">
                     Candidates who are eligible for Express Entry can upload their profile onto the federal government’s website.
                     <br/><br/>
-                    Candidates receive a <a href="https://www.canadavisa.com/express-entry-comprehensive-ranking-system.html" className="link"> Comprehensive Ranking System (CRS)</a> Comprehensive Ranking System (CRS) score based on criteria such as their age, education, language skills, and work experience etc.
+                    Candidates receive a Comprehensive Ranking System (CRS) Comprehensive Ranking System (CRS) score based on criteria such as their age, education, language skills, and work experience etc.
                     <br/><br/>
-                    Approximately every two weeks, <a href="https://www.canadavisa.com/immigration-refugees-and-citizenship-canada-ircc.html" className="link">Immigration, Refugees and Citizenship Canada (IRCC)</a> Immigration, Refugees and Citizenship Canada (IRCC) invites candidates with the highest CRS scores to apply for permanent residence.
+                    Approximately every two weeks,Immigration, Refugees and Citizenship Canada (IRCC) Immigration, Refugees and Citizenship Canada (IRCC) invites candidates with the highest CRS scores to apply for permanent residence.
                     <br></br><br>
                     </br>
                     IRCC aims to process permanent residence applications in six months or less.
 Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000 immigrants through Express Entry each year.
-                    <br></br><br></br>
-                    <a href="https://www.canadavisa.com/express-entry.html" className="link">Find out more about Express Entry</a>
+                    <br></br>
+                    Find out more about Express Entry
                     </p>
 
                 </div>
 
                 <div className="im-section" id='im-6'>
                     <h3 className="im-h3">Provincial Nominee Program (PNP)</h3>
-        	        Through the <a href="https://www.canadavisa.com/provincial-nomination-program.html" className="link"> Provincial Nominee Programs (PNP)</a> Provincial Nominee Programs (PNP), Canada’s provinces and territories can nominate people who wish to immigrate to Canada and reside in a particular province. Canada seeks to welcome over 80,000 immigrants per year under the PNP.
+        	        Through the  Provincial Nominee Programs (PNP) Provincial Nominee Programs (PNP), Canada’s provinces and territories can nominate people who wish to immigrate to Canada and reside in a particular province. Canada seeks to welcome over 80,000 immigrants per year under the PNP.
                     <br/><br/>
                     All provinces and territories, except for Quebec and Nunavut, has its own PNP. Each province determines its own criteria for choosing eligible candidates. PNPs operate Expression of Interest (EOI) systems, similar to Express Entry, and invite the candidates in regular draws.
                     <br/><br/>
-                    You do not need to have an Express Entry profile to apply. You can apply directly to a PNP stream. These are called <a href="https://www.canadavisa.com/base-and-enhanced-provincial-nominations.html#gs.o9bnzb" className="link">‘base’ streams</a> .
+                    You do not need to have an Express Entry profile to apply. You can apply directly to a PNP stream. These are called ‘base’ streams .
                     <br/><br/>
-                    You can also apply to PNP streams that are aligned with Express Entry. These are called <a href="https://www.canadavisa.com/base-and-enhanced-provincial-nominations.html#gs.o9bnzb" className="link">‘enhanced’ streams</a> . The benefit of applying to an enhanced stream is that it gives you more options.
+                    You can also apply to PNP streams that are aligned with Express Entry. These are called. The benefit of applying to an enhanced stream is that it gives you more options.
                     <br></br> <br></br>
-                    Receiving a provincial nomination through these streams awards Express Entry candidates an additional 600 <a href="https://www.canadavisa.com/express-entry-comprehensive-ranking-system.html" className="link">Comprehensive Ranking System (CRS)</a> Comprehensive Ranking System (CRS) points. This practically guarantees receiving an invitation to apply for permanent residence in a subsequent Express Entry draw.               
+                    Receiving a provincial nomination through these streams awards Express Entry candidates an additional 600 Comprehensive Ranking System (CRS) Comprehensive Ranking System (CRS) points. This practically guarantees receiving an invitation to apply for permanent residence in a subsequent Express Entry draw.               
                 <br/><br/>
-                    <a href="https://www.canadavisa.com/provincial-nomination-program.html" className="link">Learn more about the PNP</a>
+                  Learn more about the PNP
                 </div>
                
 
@@ -158,7 +161,7 @@ Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000
                     Atlantic Immigration Pilot
                     </h3>
                     <p className="im-text">
-                    Atlantic Canada has its own immigration program called the <a href="https://www.canadavisa.com/atlantic-immigration-pilot-program.html" className="link"> Atlantic Immigration Pilot (AIP)</a>. The AIP is a fast-track immigration program that allows employers to attract and retain foreign talent. Atlantic Canada includes four provinces:
+                    Atlantic Canada has its own immigration program called the Atlantic Immigration Pilot (AIP). The AIP is a fast-track immigration program that allows employers to attract and retain foreign talent. Atlantic Canada includes four provinces:
                     
                     </p>
                     <ul>
@@ -173,14 +176,14 @@ Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000
                     The AIP is divided into three programs. Two of these programs are aimed at skilled workers:
                     </p>
                     <ul>
-                        <li> <a href="https://www.canadavisa.com/atlantic-high-skilled-program-ahsp.html" className="link">Atlantic High-Skilled Program (AHSP)</a> </li>
-                        <li> <a href="https://www.canadavisa.com/atlantic-intermediate-skilled-program-aisp.html" className="link">Atlantic Intermediate-Skilled Program (AISP)</a></li>
+                        <li> Atlantic High-Skilled Program (AHSP) </li>
+                        <li>Atlantic Intermediate-Skilled Program (AISP)</li>
                     </ul>
                     <p className="text">The third program is aimed at international graduates:</p>
                     <ul>
-                        <li> <a href="https://www.canadavisa.com/atlantic-international-graduate-program-aigp.html" className="link">Atlantic International Graduate Program (AIGP)</a> </li>
+                        <li> Atlantic International Graduate Program (AIGP) </li>
                     </ul>
-                    <a href="https://www.canadavisa.com/atlantic-immigration-pilot-program.html" className="link">Read More on the AIP</a>
+                    Read More on the AIP
                 </div>
                 <div className="im-section" id='im-8'>
                     <h3 className="im-h3">
@@ -190,11 +193,11 @@ Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000
                     Additional targeted federal skilled worker programs exist that help certain immigration candidates gain permanent residence. The additional federal programs include:
                     </p>
                     <ul>
-                        <li> <a href="https://www.canadavisa.com/canada-rural-and-northern-immigration-pilot.html" className="link">Rural and Northern Immigration Pilo</a></li>
-                        <li><a href="https://www.canadavisa.com/canada-agri-food-immigration-pilot.html" className="link">Agri-Food Immigration Pilot</a></li>
-                        <li><a href="https://www.canadavisa.com/canada-caregivers-pathways-permanent-residence.html" className="link">Live-in Caregiver Program (LCP)</a></li>
-                        <li><a href="https://www.canadavisa.com/canada-caregivers-pathways-permanent-residence.html" className="link">Home Child Care Provider Pilot</a></li>
-                        <li><a href="https://www.canadavisa.com/canada-caregivers-pathways-permanent-residence.html" className="link">Home Support Worker Pilot</a></li>
+                        <li> Rural and Northern Immigration Pilo</li>
+                        <li>Agri-Food Immigration Pilot</li>
+                        <li>Live-in Caregiver Program (LCP)</li>
+                        <li>Home Child Care Provider Pilot</li>
+                        <li>Home Support Worker Pilot</li>
                     </ul>
                     <p className="im-text">
                     The RNIP allows small and remote communities across Canada to attract and retain foreign workers. Participating communities take the lead in attracting new immigrants and matching them with suitable jobs.
@@ -211,10 +214,10 @@ Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000
                     Business Immigration
                     </h3>
                     <p className="im-text">
-                   <a href="https://www.canadavisa.com/invest-in-canada-options.html" className="link"> Business people</a> Business people have several options that may allow you to fast-track the Canadian immigration process.
+                    Business people Business people have several options that may allow you to fast-track the Canadian immigration process.
                     
                    <br/><br/>
-                   For example, you may be able to immigrate to Canada through the <a href="https://www.canadavisa.com/the-entrepreneur-start-up-visa-program.html" className="link">Federal Start-Up Visa Program</a> , or the <a href="https://www.canadavisa.com/canada-immigration-self-employed.html" className="link">Federal Self-Employed Persons Program</a> .
+                   For example, you may be able to immigrate to Canada through theFederal Start-Up Visa Program , or the Federal Self-Employed Persons Program .
                     </p>
                 </div>
 
@@ -223,13 +226,13 @@ Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000
                     Moving to Canada from the U.S.
                     </h3>
                     <p className="im-text">
-                    If you are a U.S. citizens or resident, you have plenty of options to consider if you wish to live in Canada. Many move north to Canada from the U.S. each year to work, study or immigrate. Learn how you can be among them by visiting our <a href="https://www.canadavisa.com/moving-to-canada-from-the-u-s.html" className="link">dedicated page for those in the U.S</a> .
+                    If you are a U.S. citizens or resident, you have plenty of options to consider if you wish to live in Canada. Many move north to Canada from the U.S. each year to work, study or immigrate. Learn how you can be among them by visiting our dedicated page for those in the U.S .
                     ,<br /> <br />
-                    Candidates who wish to work in Canada can choose between various options depending on their situation. For example, there is a facilitated process to help U.S. citizens work in Canada temporarily under the <a href="" className="link">Canada-U.S.-Mexico Agreement (CUSMA)</a>  which is formerly known as NAFTA. The agreement also helps with intra-company transfers as well as CUSMA traders and investors.
+                    Candidates who wish to work in Canada can choose between various options depending on their situation. For example, there is a facilitated process to help U.S. citizens work in Canada temporarily under the Canada-U.S.-Mexico Agreement (CUSMA)which is formerly known as NAFTA. The agreement also helps with intra-company transfers as well as CUSMA traders and investors.
                     <br /><br />
-                    Candidates who have a <a href="https://www.canadavisa.com/spousal-and-common-law-partner-sponsorship.html" className="link"> spouse or common-law partner</a> in the U.S. may sponsor them to come to Canada. In addition, U.S. citizens and residents have many options if they wish to immigrate to Canada to <a href="https://www.canadavisa.com/invest-in-canada-options.html" className="link">start a new business</a>  or purchase an already existing business.
+                    Candidates who have a spouse or common-law partner in the U.S. may sponsor them to come to Canada. In addition, U.S. citizens and residents have many options if they wish to immigrate to Canada to start a new business  or purchase an already existing business.
                     <br /><br />
-                    <a href="https://www.canadavisa.com/moving-to-canada-from-the-u-s.html" className="link"> Learn about Moving to Canada from the U.S</a>
+                     Learn about Moving to Canada from the U.S
                     </p>
 
                 </div>
@@ -240,15 +243,15 @@ Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000
                 <div className="im-section" id='im-11'>
                     <h3 className="im-h3">Family Class Sponsorship</h3>
                         <p className="im-text">
-                        The Canadian government is committed to <a href="https://www.canadavisa.com/canadian-family-sponsorship-visa.html" className="link">keeping families together</a> . As such, Canada aims to welcome over 100,000 new immigrants every year to join their family. 
+                        The Canadian government is committed tokeeping families together . As such, Canada aims to welcome over 100,000 new immigrants every year to join their family. 
                         <br /><br />
-                        Canadian citizens and permanent residents can sponsor their <a href="https://www.canadavisa.com/parent-and-grandparent-sponsorship.html" className="link">spouses or common-law partners, parents and grandparents</a> , and <a href="https://www.canadavisa.com/dependent-child-sponsorship.html" className="link">dependent children</a> .
+                        Canadian citizens and permanent residents can sponsor their spouses or common-law partners, parents and grandparents , and dependent children.
                         <br /><br />
                         You will need to sign an 'undertaking' in order to sponsor your family. This means that you will be financially responsible for the person you will sponsor. For example, if they require social assistance, you may have to pay it back.
                         <br /><br />
-                        For parents and grandparents, there is also the <a href="https://www.canadavisa.com/parent-and-grandparent-super-visa.html" className="link">Super Visa program option</a> .
+                        For parents and grandparents, there is also the Super Visa program option.
                         <br /><br />
-                        <a href="https://www.canadavisa.com/canadian-family-sponsorship-visa.html" className="link">Explore Family Class Sponsorship</a>
+                       Explore Family Class Sponsorship
 
                         </p>
                 </div>
@@ -258,16 +261,16 @@ Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000
             <div className="im-section" id='im-12'>
                 <h3 className="im-h3">Find the Right Canadian Immigration Program</h3>
                 <p className="im-text">
-                    <a href="https://www.canadavisa.com/canadian-immigration-visas.html#collapse-165398" className="link"> I am a skilled worker</a>
+                    I am a skilled worker
                     <br /><br />
                     Your best options are:
                     <ul>
-                        <li><a href="https://www.canadavisa.com/federal-skilled-worker-program-fswp.html" className="link">Federal Skilled Worker Program (FSWP) through Express Entry</a></li>
-                        <li><a href="https://www.canadavisa.com/canadian-experience-class.html" className="link">Canadian Experience Class (CEC) through Express Entry</a></li>
-                        <li> <a href="https://www.canadavisa.com/provincial-nomination-program.html" className="link">Provincial Nominee Program (PNP)</a> </li>
-                        <li> <a href="https://www.canadavisa.com/quebec-skilled-worker-immigration.html" className="link"> Quebec Skilled Worker Program (if you wish to reside in Quebec)</a></li>
-                        <li> <a href="https://www.canadavisa.com/canada-federal-skilled-trades-program-fstc.html" className="link"> Federal Skilled Trades Program (FSTP) through Express Entry (if you specialize in a trade)</a></li>
-                        <li> <a href="https://www.canadavisa.com/atlantic-immigration-pilot-program.html" className="link">Atlantic Immigration Pilot</a></li>
+                        <li>Federal Skilled Worker Program (FSWP) through Express Entry</li>
+                        <li>Canadian Experience Class (CEC) through Express Entry</li>
+                        <li> Provincial Nominee Program (PNP) </li>
+                        <li>  Quebec Skilled Worker Program (if you wish to reside in Quebec)</li>
+                        <li>  Federal Skilled Trades Program (FSTP) through Express Entry (if you specialize in a trade)</li>
+                        <li> Atlantic Immigration Pilot</li>
                         <li>Consider other federal programs</li>
                     </ul>
                     <br /><br />
@@ -276,7 +279,7 @@ Candidates for Canadian immigration who have at least one year of skilled work e
         <br /> <br />
         Candidates for Canadian immigration who have at least one year of skilled work experience are deemed more likely to be able to integrate into the Canadian labour market. Once again, many programs assign a point value for your work experience. You may receive additional points for more work experience, depending on the program
                 <br /><br />
-                <a href="https://www.canadavisa.com/canada-skilled-worker-immigration.html" className="link">Learn more about Skilled Immigration</a>
+               Learn more about Skilled Immigration
               
                 </p>
             </div>

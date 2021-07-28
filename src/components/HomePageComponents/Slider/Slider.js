@@ -5,11 +5,11 @@ import 'swiper/css/swiper.css'
 import Swiper from 'react-id-swiper';
 
 //images
-import Slider1 from '../../../assets/slider image/1.png'
-import Slider2 from '../../../assets/slider image/2.png'
-import Slider3 from '../../../assets/slider image/3.png'
-import Slider4 from '../../../assets/slider image/4.png'
-import Slider5 from '../../../assets/slider image/5.png'
+import Slider1 from '../../../assets/slider image/1.jpg'
+import Slider2 from '../../../assets/slider image/2.jpg'
+import Slider3 from '../../../assets/slider image/3.jpg'
+import Slider4 from '../../../assets/slider image/4.jpg'
+import Slider5 from '../../../assets/slider image/5.jpg'
 
 
 //Slider Config options

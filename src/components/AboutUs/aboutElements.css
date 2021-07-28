@@ -2,17 +2,31 @@
 .ab-container{
     display: flex;
     justify-content: center;
+    flex-direction: row;
     
     
 }
+@media screen and (max-width:768px) {
+    .ab-container{
+        flex-direction: column;
+    }
+}
 .content-wrapper{
     max-width: 800px;
-    padding: 30px;
-    margin: 20px;
+    padding: 20px;
+    margin-right: 20px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+@media screen and (max-width:768px) {
+    .content-wrapper{
+        justify-content: row;
+    }
+}
+.img-wrapper{
+   margin-top: 240px;
 }
 .ab-image{
     display: block;
@@ -45,7 +59,7 @@
 
 }
 span{
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     font-weight: bold;
     color:rgb(241, 19, 19);
 }

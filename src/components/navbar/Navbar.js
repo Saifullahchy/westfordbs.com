@@ -59,17 +59,9 @@ const Navbar = () => {
                       About us
                     </Link>
                   </li>
-                  <li className= 'nav-item'>
-                    <Link to = '/career' className = 'nav-links' onClick ={ closeMobileMenue}>
-                      Career
-                    </Link>
-                  </li>
                   
-                  <li className= 'nav-item'>
-                    <Link to = '/fees' className = 'nav-links' onClick ={ closeMobileMenue}>
-                      Fees
-                    </Link>
-                  </li>
+                  
+                  
                   <li className= 'nav-item'>
                     <Link to = '/news' className = 'nav-links' onClick ={ closeMobileMenue}>
                       Latest News
@@ -81,7 +73,18 @@ const Navbar = () => {
                       Contact Us
                     </Link>
                   </li>
+                  <li className= 'nav-item'>
+                    <Link to = '/fees' className = 'nav-links' onClick ={ closeMobileMenue}>
+                      Fees
+                    </Link>
+                  </li>
 
+                  <li className= 'nav-item ass'>
+                    
+                     <a className='nav-links' href ='https://forms.gle/DJCM8sBrqnubziAp7' onClick ={ closeMobileMenue}>Take  FREE Assesment</a>
+                      
+                
+                  </li>
                   <li>
             <Link
               to='/appointment'

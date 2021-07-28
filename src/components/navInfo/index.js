@@ -29,6 +29,7 @@ width: 30px;
 `
 const ContactP = styled.p`
     margin-right: 10px;
+    margin-top: 7px;
     color: #fff ;
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 13px;
@@ -43,14 +44,14 @@ const NavContactInfo = () => {
         <ContactContainer>
             <ContactWrapper className="wrapper">
                 <ContactInfoWrapper>
-                <ContactP>
+               
                    <Icon> <i className ="fa fa-phone fa-lg"/> </Icon>
-                    +8801633661199</ContactP>
+                   <ContactP>  +8801633661199</ContactP>
                 {/* </ContactInfoWrapper>
                 <ContactInfoWrapper> */}
-                <ContactP>
+                
                     <Icon><i className ="fa fa-whatsapp fa-lg"/></Icon>
-                    +14373889215</ContactP>
+                    <ContactP>  +14373889215</ContactP>
                 </ContactInfoWrapper>   
             </ContactWrapper>
         </ContactContainer>

@@ -38,6 +38,7 @@ const Footer = () => {
                                 <FooterLink to= "/contactus">Family Sponsorship</FooterLink>
                                 <FooterLink to= "/contactus">Work Permit</FooterLink>
                                 <FooterLink to= "/contactus">Refusal Appeals and Inadmissibility</FooterLink>
+                                <FooterLink to='/career'>Career</FooterLink>
                         </FooterLinkItems>
                         {/* <FooterLinkItems>
                             <FooterLinksTitle> Videos </FooterLinksTitle>

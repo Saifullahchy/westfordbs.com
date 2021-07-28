@@ -19,9 +19,11 @@
     }
 }
 .b-h1{
+    text-align: justify;
     color: #991A1E;
     font-size: 3rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Open Sans', sans-serif; 
+    font-weight: 800;
 }
 .price-wrapper-book{
     width: 800px;
@@ -45,14 +47,20 @@
     padding: 2rem;
     flex-grow: 1;
     flex-basis: 0;
-    max-width: 400px;
+    max-width: 500px;
     border-radius: 8px;
 
 }
-
+.booking-link{
+    text-decoration: none;
+    color: #fff;
+}
+.booking-link .pp{
+    color: #991A1E;
+} 
 @media screen and (max-width:768px) {
     .price-column{
-        width: 400px;
+        width: 300px;
         margin-top: 20px;
         padding: 3rem;
         margin-bottom: 20px;
@@ -169,6 +177,12 @@
     display: flex;
     justify-content: flex-start;
 }
+.booking-text .popular{
+    background: #991A1E;
+    height: 100%;
+    padding: 5px;
+}
+
 .feature.popular{
     display: flex;
     justify-content: flex-start;

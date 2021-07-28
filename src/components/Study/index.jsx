@@ -10,8 +10,8 @@ const Study = () => {
                 <h1 className="st-title">Study in Canada</h1>
                 <img src={image} alt="" className="st-img" />
                 <h3 className="st-h3">Canada is home to some of the world's best education and immigration options. This page provides you with everything you need to know on how obtain .</h3>
-                <a href="https://www.canadavisa.com/assess/canada-immigration-student.htm" className="link">Click here for study permit assistance</a>
-
+                <br />
+                <a href="https://forms.gle/DJCM8sBrqnubziAp7" className="link">Click here for study permit assistance</a>
                 <h3 className="st-h3">
                 Benefits of Studying in Canada
                 </h3>
@@ -20,7 +20,7 @@ const Study = () => {
                 <br /> <br />
                 The reason for this is that Canada is allowing new international students to start their Canadian educational programs online, and still be eligible to obtain a Post-Graduation Work Permit after they complete their program. This is a temporary policy that aims to provide more flexibility to international students due to the global coronavirus pandemic.
                 <br /> <br />
-                According to <a href="https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/pgwpp-rules-covid19.html" className="link">Immigration, Refugees and Citizenship Canada (IRCC)</a> , a student can complete up their entire Canadian program online and remain eligible for the PGWP.
+                According to Immigration, Refugees and Citizenship Canada (IRCC), a student can complete up their entire Canadian program online and remain eligible for the PGWP.
                 <br /><br />
                 The PGWP is important for international students that want to make their Canadian immigration applications more competitive. The combination of a Canadian education and Canadian work experience gained through the PGWP will enhance a student’s chances of obtaining Canadian permanent residence.
                  <br /><br />
@@ -48,7 +48,7 @@ const Study = () => {
                 </p>
                 <h3 className="st-h3">About Canada’s Universities and Colleges</h3>
                 <p className="st-text">
-                There are over 1,500 universities, colleges, and other educational institutions that are authorized by Immigration, Refugees and Citizenship Canada (IRCC) to welcome international students. These educational institutions are called designated learning institutions (DLIs) and they exist to help international students learn in Canada and stay in the country after graduation. The list of DLIs that are authorized by IRCC is constantly growing. Please verify that the university, college, or other institution you wish to enroll in is authorized by IRCC by <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html" className="link"> visiting the Canadian government’s official website</a>.
+                There are over 1,500 universities, colleges, and other educational institutions that are authorized by Immigration, Refugees and Citizenship Canada (IRCC) to welcome international students. These educational institutions are called designated learning institutions (DLIs) and they exist to help international students learn in Canada and stay in the country after graduation. The list of DLIs that are authorized by IRCC is constantly growing. Please verify that the university, college, or other institution you wish to enroll in is authorized by IRCC by <a href="" className="link"> visiting the Canadian government’s official website</a>.
                 <br /><br />
                 Ontario and Quebec are Canada’s largest provinces by population, and hence, they host the most number of DLIs in the country (nearly 1,000 combined).
                 <br /><br />

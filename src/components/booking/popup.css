@@ -46,7 +46,7 @@
  .close{
     
     background: #fff;
-    color: #991A1E;
+    color: #fffefe;
     border-radius: 5px;
     outline: none;
     border: none;
@@ -59,6 +59,6 @@
 }
 .popup-elements{
     text-align: justify;
-    margin: 00px;
+    margin: 0px;
     color: #fff;
 }

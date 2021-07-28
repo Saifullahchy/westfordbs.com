@@ -13,7 +13,7 @@ const FamilySponsor = () => {
                 Sponsor your Family to Immigrate to Canada  
                 </h2>
                 <h3 className="fm-h3">Canada welcomes more than 100,000 immigrants through family sponsorship each year. </h3>
-                <p className="fm-text">IRCC (formerly CIC) welcomes about 80 per cent of these immigrants under the Spouses, Partners, and Children Program, and the remaining 20 per cent under the Parents and Grandparents Program. This comprehensive CanadaVisa page provides an overview on how to sponsor your family for immigration to Canada.</p>
+                <p className="fm-text">IRCC (formerly CIC) welcomes about 80 per cent of these immigrants under the Spouses, Partners, and Children Program, and the remaining 20 per cent under the Parents and Grandparents Program.</p>
 
                 <ul className='fm-list'>
                     <h4 className="fm-h4">Topics</h4>
@@ -29,7 +29,7 @@ const FamilySponsor = () => {
                     <h3 className="fm-h3" > <a href="" className="link-title">Overview of Canadian Immigration Family Sponsorship</a></h3>
                     <p className="fm-text">
                     Family reunification is one of the pillars of Canada's immigration system. Since the end of the Second World War, Canada has sought to welcome immigrants to strengthen its economy, bring families together, and on humanitarian and compassionate grounds.
-                     The family class is the second largest category of newcomers welcomed by Canada under its <a href="https://www.canadavisa.com/canada-immigration-levels-plans.html" className="link">Immigration Levels Plan</a> . Canada is pursuing the highest levels of immigration in its history to support its post-COVID economic recovery. As such, Canada aims to welcome over 400,000 new immigrants per year, of which, over 100,000 immigrants per year fall under the family class.
+                     The family class is the second largest category of newcomers welcomed by Canada under its <a href="" className="link">Immigration Levels Plan</a> . Canada is pursuing the highest levels of immigration in its history to support its post-COVID economic recovery. As such, Canada aims to welcome over 400,000 new immigrants per year, of which, over 100,000 immigrants per year fall under the family class.
                         <br /><br />
                         The country's immigration system is managed by the Department of Immigration, Refugees and Citizenship Canada or IRCC for short. The department was previously known as Citizenship and Immigration Canada, or CIC for short. IRCC establishes and administers Canada's family sponsorship program. This entails establishing program criteria, accepting and reviewing family sponsorship applications, and providing permanent and temporary resident visas.
 
@@ -62,7 +62,7 @@ const FamilySponsor = () => {
                     </ul>
 
                     <br /><br />
-                    Visit our <a href="https://www.canadavisa.com/coronavirus-covid-19-impact-canada-immigration-visa-border-latest-news.html#gs.mf8evt" className="link">COVID-19 page</a>  to get the latest updates on how the coronavirus pandemic is affecting family class immigration sponsorship.
+                    Visit our <a href="" className="link">COVID-19 page</a>  to get the latest updates on how the coronavirus pandemic is affecting family class immigration sponsorship.
                     </p>
                     <h5 className="fm-h5">Can I be a sponsor?</h5>
                     <p className="fm-text">
@@ -111,7 +111,7 @@ const FamilySponsor = () => {
                 <div className="fm-section" id='fm-2'>
                     <h3 className="fm-h3"><a href="" className="link-title">Sponsor your Wife, Husband, or Common-law Partner</a></h3>
 
-                    <p className="fm-text"><a href="" className="link">Spouse or Common Law-Partner Sponsorship</a></p>
+                    <p className="fm-text"> <a href="https://forms.gle/DJCM8sBrqnubziAp7" className="link">Spouse or Common Law-Partner Sponsorship</a></p>
         	        <p className="fm-text">
                     If you are a Canadian citizen or permanent resident of Canada you may sponsor:
                     <ul>
@@ -136,7 +136,7 @@ const FamilySponsor = () => {
                     </ul>
 
                     <br /><br />
-                    <a href="https://www.canadavisa.com/assess/canada-immigration-family-assessment-form.htm#gs.mf7do4" className="link">Find out if you are eligible to sponsor your partner</a>
+                    <a href="https://forms.gle/DJCM8sBrqnubziAp7" className="link">Find out if you are eligible to sponsor your partner</a>
                     </p>
 
                     <p className="fm-text">
@@ -146,10 +146,10 @@ const FamilySponsor = () => {
                         <li><span className='fm-span'>Inland:</span> The application can be made from within Canada because the person you wish to sponsor is currently in Canada. This type of sponsorship allows applicants to continue to live in Canada while their application for permanent residence is being processed.</li>
     
                     </ul>
-                    If the application is made from within Canada, the person you are sponsoring may apply for an <a href="https://www.canadavisa.com/inland-spousal-common-law-sponsorship-open-work-permit-pilot-program.html#gs.ln2s3p" className="link">open work permit</a>  that would allow them to work for any employer in Canada while the sponsorship application is being processed.
+                    If the application is made from within Canada, the person you are sponsoring may apply for an <a href="" className="link">open work permit</a>  that would allow them to work for any employer in Canada while the sponsorship application is being processed.
                     It is possible for spouses or partners to come to Canada by first applying for a Temporary Resident Visa (TRV).
                     <br /><br />
-                    It is possible for spouses or partners to come to Canada by first applying for a <a href="https://www.canadavisa.com/canadian-temporary-resident-visa-visitor.html#gs.l5lyat" className="link">Temporary Resident Visa (TRV)</a> .
+                    It is possible for spouses or partners to come to Canada by first applying for a <a href="" className="link">Temporary Resident Visa (TRV)</a> .
 
                     <ul>
                         <li> <span className='fm-span'> Outland:</span>  The application is made from abroad through an Embassy or Consulate.</li>
@@ -162,8 +162,8 @@ const FamilySponsor = () => {
                 {/* dependent children */}
 
                 <div className="fm-section" id='fm-3'>
-                    <h3 className="fm-h3"><a href="https://www.canadavisa.com/dependent-child-sponsorship.html" className="link-title">Sponsor your Dependent Children</a></h3>
-                    <a href="https://www.canadavisa.com/dependent-child-sponsorship.html" className="link">Dependent Child Sponsorship</a>
+                    <h3 className="fm-h3"><a href="" className="link-title">Sponsor your Dependent Children</a></h3>
+                    <a href="" className="link">Dependent Child Sponsorship</a>
 
                     <p className="fm-text">
                     You can sponsor your dependent children, whether natural or adopted, to live with you as permanent residents in Canada.
@@ -181,11 +181,11 @@ const FamilySponsor = () => {
 
                 </div>
                 <div className="fm-section" id='fm-4'>
-                <h3 className="fm-h3"><a href="https://www.canadavisa.com/parent-and-grandparent-sponsorship.html#gs.knne3h" className="link-title">Sponsor your Parents or Grandparents</a></h3>
-                    <a href="https://www.canadavisa.com/parent-and-grandparent-sponsorship.html#gs.knne3h" className="link">Parents and Grandparents Sponsorship</a>
+                <h3 className="fm-h3"><a href="" className="link-title">Sponsor your Parents or Grandparents</a></h3>
+                    <a href="" className="link">Parents and Grandparents Sponsorship</a>
                     <p className="fm-text">
 
-                    The Parent and Grandparent Sponsorship Program (PGP) and the <a href="https://www.canadavisa.com/parent-and-grandparent-super-visa.html" className="link">Super Visa Program </a> are two programs that offer Canadian citizens and permanent residents the opportunity to bring their parents and grandparents to Canada.
+                    The Parent and Grandparent Sponsorship Program (PGP) and the <a href="" className="link">Super Visa Program </a> are two programs that offer Canadian citizens and permanent residents the opportunity to bring their parents and grandparents to Canada.
                     </p>
 
                     <h5 className="fm-h5">To be eligible under the Parents and Grandparents Program, you must</h5>
@@ -203,11 +203,11 @@ const FamilySponsor = () => {
                         <li>not be the person being sponsored,</li>
                         <li>have cohabited with you in a conjugal relationship for at least one year.</li>
                     </ul>
-                    <a href="https://www.canadavisa.com/assess/parents-and-grandparents-eligibility-assessment-form.htm#gs.mf9g12" className="link">Find out if you are eligible to sponsor your parents and grandparents</a>
+                    <a href="https://forms.gle/DJCM8sBrqnubziAp7" className="link">Find out if you are eligible to sponsor your parents and grandparents</a>
                 </div>
 
                 <div className="fm-section">
-                    <h3 className="fm-h3"> <a href="https://www.canadavisa.com/parent-and-grandparent-super-visa.html" className="link-title">Super Visa Program</a></h3>
+                    <h3 className="fm-h3"> <a href="" className="link-title">Super Visa Program</a></h3>
 
                     <p className="fm-text">
                     The Super Visa program allows parents and grandparents to come to Canada on extended multiple-entry visas that can last up to 10 years in total. This program is always open, and it is possible to apply at the same time as the to PGP.
@@ -222,7 +222,7 @@ const FamilySponsor = () => {
                     <p className="fm-text">
                     In addition, your Canadian child or grandchild will have to prove that their household meets the minimum necessary income.
                         <br /><br />
-                        <a href="mailto:SuperVisa@canadavisa.com" className="link">Contact us if you want to apply for a Super Visa!</a>
+                        <a href="" className="link">Contact us if you want to apply for a Super Visa!</a>
                     </p>   
                 </div>
             </div>

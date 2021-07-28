@@ -38,7 +38,7 @@ const RefusalComponent = () => {
                 <br /><br />
                 If you have been found to be criminally inadmissible, or think you may be deemed inadmissible upon arrival, it is important to know that <span> you still have options.</span>
                 <br /><br />
-                The <a href="https://www.canadavisa.com/canadian-temporary-resident-permit.html" className="link"> Temporary Resident Permit (TRP)</a> and Criminal Rehabilitation applications offer short and long-term solutions respectively to those found ineligible to enter due to the grounds of inadmissibility.
+                The  Temporary Resident Permit (TRP) and Criminal Rehabilitation applications offer short and long-term solutions respectively to those found ineligible to enter due to the grounds of inadmissibility.
                 <br /><br />
                 If you are subject to inadmissibility, contact us to learn more about your chances!
                  </p>
