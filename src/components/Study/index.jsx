@@ -9,7 +9,7 @@ const Study = () => {
             <div className="st-wrapper">
                 <h1 className="st-title">Study in Canada</h1>
                 <img src={image} alt="" className="st-img" />
-                <h3 className="st-h3">Canada is home to some of the world's best education and immigration options. This page provides you with everything you need to know on how obtain .</h3>
+                <h3 className="st-h3">Canada is home to some of the world's best education and immigration options. This page provides you with everything you need to know on how obtain a study permit.</h3>
                 <br />
                 <a href="https://forms.gle/DJCM8sBrqnubziAp7" className="link">Click here for study permit assistance</a>
                 <h3 className="st-h3">

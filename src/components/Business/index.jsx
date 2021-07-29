@@ -5,10 +5,10 @@ const BusinessPage = () => {
     return (
         <div className="b-container">
             <div className="b-wrapper">
-                <h1 className="b-title">Business immigration</h1>
+                <h1 className="b-title">Business Immigration</h1>
                 <img src={bImage} alt="" className="b-img" />
                 <h2 className="b-h2">
-                Business immigration to Canada: An Introduction
+                Business Immigration to Canada: An Introduction
                 </h2>
                 <p className="b-text">
                 Through Canada's Business Class immigration programs, Canada aims to attract individuals that have a significant ability to contribute to the Canadian economy. These programs are offered with the goal of promoting economic development and bettering the job market by attracting investors, entrepreneurs, and self-employed individuals from outside Canada with available venture capital, significant business acumen, and entrepreneurial skills.
@@ -157,7 +157,7 @@ Create at least 2 permanent, full-time jobs for a Canadian citizen or a permanen
                              <td>Additional Requirements</td>
                              <td>
                               
-                             Canadian financial institution must finance the proposed Alberta farming business
+                             Canadian financial institutions must finance the proposed Alberta farming business
 </td>
                          </tr>
                     </table>
@@ -280,7 +280,7 @@ PR/Work permit
 
                          <tr>
                              <td>Exploratory Visit</td>
-                             <td>Business research visit must be conducted no more than one year prior to the submission of an EOI.</td>
+                             <td>Business research visits must be conducted no more than one year prior to the submission of an EOI.</td>
                          </tr>
 
                          <tr>

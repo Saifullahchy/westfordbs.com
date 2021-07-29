@@ -26,7 +26,7 @@ const RefusalComponent = () => {
                     <br /><br />
                     Although the foreign equivalent of a Canadian Criminal Code infraction is the most common cause of inadmissibility, an offence that equates to a violation of any Canadian federal law can also result in inadmissibility. If you have been determined to have committed an act in a foreign country that is both an offence in that country, and an indictable offence in Canada, you may also be criminally inadmissible. The same applies to two or more crimes that are summary offences in Canada. All that is required is credible evidence that you committed the act. This category is meant to catch individuals with unresolved criminal charges.
                  <br /><br />
-                 <span>Temporary residents</span> and <span>applicants for permanent residency</span>can be deemed criminally inadmissible if they:
+                 <span>Temporary residents</span> and <span>applicants for permanent residency</span> can be deemed criminally inadmissible if they:
 <br /><br />
                     <ul>
                         <li>Were convicted of an offence in Canada;</li>

@@ -90,7 +90,7 @@ const Footer = () => {
                         </SocialIcon>
                     </SocialMediaWrap>
                 </SocialMedia>
-                <WebsiteRights> Develop By <a className='link' href='https://www.linkedin.com/in/saifullah-chowdhury-bb0005159/'> <br /> Saifullah Chowdhury</a> </WebsiteRights>
+                <WebsiteRights> Developed By <a className='link' href='https://www.linkedin.com/in/saifullah-chowdhury-bb0005159/'> <br /> Saifullah Chowdhury</a> </WebsiteRights>
             </FooterWrap>
         </FooterContainer>
     )

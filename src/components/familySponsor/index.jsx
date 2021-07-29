@@ -13,7 +13,7 @@ const FamilySponsor = () => {
                 Sponsor your Family to Immigrate to Canada  
                 </h2>
                 <h3 className="fm-h3">Canada welcomes more than 100,000 immigrants through family sponsorship each year. </h3>
-                <p className="fm-text">IRCC (formerly CIC) welcomes about 80 per cent of these immigrants under the Spouses, Partners, and Children Program, and the remaining 20 per cent under the Parents and Grandparents Program.</p>
+                <p className="fm-text">IRCC (formerly CIC) welcomes about 80 percent of these immigrants under the Spouses, Partners, and Children Program, and the remaining 20 per cent under the Parents and Grandparents Program.</p>
 
                 <ul className='fm-list'>
                     <h4 className="fm-h4">Topics</h4>
@@ -210,7 +210,7 @@ const FamilySponsor = () => {
                     <h3 className="fm-h3"> <a href="" className="link-title">Super Visa Program</a></h3>
 
                     <p className="fm-text">
-                    The Super Visa program allows parents and grandparents to come to Canada on extended multiple-entry visas that can last up to 10 years in total. This program is always open, and it is possible to apply at the same time as the to PGP.
+                    The Super Visa program allows parents and grandparents to come to Canada on extended multiple-entry visas that can last up to 10 years in total. This program is always open, and it is possible to apply at the same time as to PGP.
                     </p>
                     <h5 className="fm-h5">To be eligible under the Super Visa Program, you must:</h5> 
                     <ul>

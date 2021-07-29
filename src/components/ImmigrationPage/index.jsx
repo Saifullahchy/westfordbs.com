@@ -16,9 +16,9 @@ const Immigration = () => {
                 Immigrate to Canada
                 </h2>
                 <p className="im-text">
-                Canada Immigration: What are your options?
+               <span> Canada Immigration:</span> What are your options?
                 Despite the global coronavirus pandemic, Canada has set a target of welcoming over 400,000 new immigrants each year, between 2021-2023.
-                Canada offers one of the world's most open and dynamic immigration systems. There are over 100 different Canadian immigration pathways for skilled workers, business people, and families. Our page helps you explore the details of the programs to give you an idea which options may be best for you.
+                Canada offers one of the world's most open and dynamic immigration systems. There are over 100 different Canadian immigration pathways for skilled workers, business people and families. Our page helps you explore the details of the programs to give you an idea which options may be best for you.
                 </p>
                 <ul className='questions'>
                     <h3 className="im-h3">TOPICS</h3>
@@ -41,12 +41,12 @@ const Immigration = () => {
                 Overview and COVID-19
                 </h3>
                 <p className="im-text">
-                If you want to immigrate to Canada then you’ve come to the right place. Westford Immigration servieces will help you figure out how you can make your Canada dream come true.
+                If you want to immigrate to Canada then you’ve come to the right place. Westford Immigration Services will help you figure out how you can make your Canada dream come true.
 People choose to immigrate to Canada for many reasons. Whether it’s to pursue a high-quality education, to feel secure with free universal healthcare, or to benefit from Canada’s high quality of life, Canada’s got it all.
 There are over 100 different ways to immigrate to Canada. For that reason, everyone’s path to Canadian immigration will be unique.
 For example, there are many different ways for professionals and workers to qualify for a Canada Immigration permanent resident visa. The most prominent option is through Express Entry, which is Canada's main pathway for economic class skilled workers. Your best bet to be eligible under Express Entry is to meet the requirements of either the Federal Skilled Worker Program (FSWP) or Canadian Experience Class (CEC). Canada's second largest pathway for skilled workers is the Provincial Nominee Program (PNP). Nearly every province and territory operates the PNP so they can select immigrants that meet the needs of their local job markets. The third major option is immigrating to the province of Quebec, which operates notable pathways such as the Quebec Skilled Worker Program and the Quebec Experience Class. 
 If you want to obtain Canadian permanent residence as a business immigrant, you have a number of options such as the Federal Self-Employed Program, the Start-up Visa, and entrepreneur programs operated under the PNP and by Quebec.
-Canada offers a number of family class sponsorship programs. Through these programs, Canadian citizens and permanent residents may sponsor family members and loved ones for Canadian immigration
+Canada offers a number of family class sponsorship programs. Through these programs, Canadian citizens and permanent residents may sponsor family members and loved ones for Canadian immigration.
 <br /><br />
 
                 </p>
@@ -70,13 +70,13 @@ Moreover, the pandemic has led to Canada strengthening its commitment to immigra
                     </h3>
                     <p className="im-text">
                     Canada welcomes immigrants under three classes: the economic class, family class, and refugee and humanitarian class.<br/><br/>
-                    Skilled workers are welcomed under the economic class to support Canada’s high living standards. Canada has an aging population and low birth rate which is why most of the immigrants it welcomes are skilled workers. Canada needs these skilled workers to support its labour force and economic growth. These skilled workers arrive with strong language skills, work experience, and education, and desire to succeed. Hence, they play a vital role in Canada’s efforts to support economic growth and social services such as education and universal health care.
+                    Skilled workers are welcomed under the economic class to support Canada’s high living standards. Canada has an aging population and low birth rate which is why most of the immigrants, it welcomes are skilled workers. Canada needs these skilled workers to support its labour force and economic growth. These skilled workers arrive with strong language skills, work experience, and education, and desire to succeed. Hence, they play a vital role in Canada’s efforts to support economic growth and social services such as education and universal health care.
                     <br/><br/>
                     The second largest immigrant class arrives through family sponsorship. Canada welcomes the loved ones of Canadian citizens and permanent residents since strong families are the bedrock of Canada’s society and economy. Allowing close family members to build a life in Canada provides families with the emotional support they need to thrive in the country’s society and economy.
                     <br/><br/>
                     The third largest class are welcomed as refugees and for humanitarian purposes. As one of the world’s most privileged nations, Canada has a moral obligation to provide safety to those fleeing persecution and other 
-                    <br/><br/>
-                    hardship, and Canada has a long tradition since the end of the Second World War of demonstrating humanitarian leadership. In 1986, the United Nations awarded the people of Canada the Nansen Medal, which is the UN's highest honour for those who demonstrate excellence in helping refugees. Canada remains the first and only country to receive the Nansen Medal.
+                
+                    hardship. Canada has a long tradition since the end of the Second World War of demonstrating humanitarian leadership. In 1986, the United Nations awarded the people of Canada the Nansen Medal, which is the UN's highest honour for those who demonstrate excellence in helping refugees. Canada remains the first and only country to receive the Nansen Medal.
                     </p>
                 </div>
                 <div className="im-section" id='im-3'>
@@ -127,13 +127,12 @@ Moreover, the pandemic has led to Canada strengthening its commitment to immigra
                     <p className="im-text">
                     Candidates who are eligible for Express Entry can upload their profile onto the federal government’s website.
                     <br/><br/>
-                    Candidates receive a Comprehensive Ranking System (CRS) Comprehensive Ranking System (CRS) score based on criteria such as their age, education, language skills, and work experience etc.
+                    Candidates receive a Comprehensive Ranking System (CRS) score based on criteria such as their age, education, language skills, and work experience etc.
                     <br/><br/>
-                    Approximately every two weeks,Immigration, Refugees and Citizenship Canada (IRCC) Immigration, Refugees and Citizenship Canada (IRCC) invites candidates with the highest CRS scores to apply for permanent residence.
+                    Approximately every two weeks,Immigration, Refugees and Citizenship Canada (IRCC) invites candidates with the highest CRS scores to apply for permanent residence.
                     <br></br><br>
                     </br>
-                    IRCC aims to process permanent residence applications in six months or less.
-Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000 immigrants through Express Entry each year.
+                    IRCC aims to process permanent residence applications in six months or less. Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000 immigrants through Express Entry each year.
                     <br></br>
                     Find out more about Express Entry
                     </p>
@@ -148,9 +147,9 @@ Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000
                     <br/><br/>
                     You do not need to have an Express Entry profile to apply. You can apply directly to a PNP stream. These are called ‘base’ streams .
                     <br/><br/>
-                    You can also apply to PNP streams that are aligned with Express Entry. These are called. The benefit of applying to an enhanced stream is that it gives you more options.
+                    You can also apply to PNP streams that are aligned with Express Entry. These are called  ‘enhanced’ streams. The benefit of applying to an enhanced stream is that it gives you more options.
                     <br></br> <br></br>
-                    Receiving a provincial nomination through these streams awards Express Entry candidates an additional 600 Comprehensive Ranking System (CRS) Comprehensive Ranking System (CRS) points. This practically guarantees receiving an invitation to apply for permanent residence in a subsequent Express Entry draw.               
+                    Receiving a provincial nomination through these streams awards Express Entry candidates an additional 600 Comprehensive Ranking System (CRS) points. This practically guarantees receiving an invitation to apply for permanent residence in a subsequent Express Entry draw.               
                 <br/><br/>
                   Learn more about the PNP
                 </div>
@@ -193,7 +192,7 @@ Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000
                     Additional targeted federal skilled worker programs exist that help certain immigration candidates gain permanent residence. The additional federal programs include:
                     </p>
                     <ul>
-                        <li> Rural and Northern Immigration Pilo</li>
+                        <li> Rural and Northern Immigration Pilot</li>
                         <li>Agri-Food Immigration Pilot</li>
                         <li>Live-in Caregiver Program (LCP)</li>
                         <li>Home Child Care Provider Pilot</li>
@@ -211,13 +210,13 @@ Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000
                 {/* Business Immigration */}
                 <div className="im-section" id='im-9'>
                     <h3 className="im-h3">
-                    Business Immigration
+                    Business Migration
                     </h3>
                     <p className="im-text">
-                    Business people Business people have several options that may allow you to fast-track the Canadian immigration process.
+                     Business people have several options that may allow you to fast-track the Canadian immigration process.
                     
                    <br/><br/>
-                   For example, you may be able to immigrate to Canada through theFederal Start-Up Visa Program , or the Federal Self-Employed Persons Program .
+                   For example, you may be able to immigrate to Canada through the Federal Start-Up Visa Program , or the Federal Self-Employed Persons Program .
                     </p>
                 </div>
 
@@ -226,9 +225,9 @@ Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000
                     Moving to Canada from the U.S.
                     </h3>
                     <p className="im-text">
-                    If you are a U.S. citizens or resident, you have plenty of options to consider if you wish to live in Canada. Many move north to Canada from the U.S. each year to work, study or immigrate. Learn how you can be among them by visiting our dedicated page for those in the U.S .
-                    ,<br /> <br />
-                    Candidates who wish to work in Canada can choose between various options depending on their situation. For example, there is a facilitated process to help U.S. citizens work in Canada temporarily under the Canada-U.S.-Mexico Agreement (CUSMA)which is formerly known as NAFTA. The agreement also helps with intra-company transfers as well as CUSMA traders and investors.
+                    If you are a U.S. citizens or resident, you have plenty of options to consider if you wish to live in Canada. Many move north to Canada from the U.S. each year to work, study or immigrate. Learn how you can be among them by visiting our dedicated page for those in the U.S.
+                    <br /> <br />
+                    Candidates who wish to work in Canada can choose between various options depending on their situation. For example, there is a facilitated process to help U.S. citizens work in Canada temporarily under the Canada-U.S.-Mexico Agreement (CUSMA) which is formerly known as NAFTA. The agreement also helps with intra-company transfers as well as CUSMA traders and investors.
                     <br /><br />
                     Candidates who have a spouse or common-law partner in the U.S. may sponsor them to come to Canada. In addition, U.S. citizens and residents have many options if they wish to immigrate to Canada to start a new business  or purchase an already existing business.
                     <br /><br />
@@ -243,7 +242,7 @@ Under its Immigration Levels Plan, Canada seeks to welcome an average of 110,000
                 <div className="im-section" id='im-11'>
                     <h3 className="im-h3">Family Class Sponsorship</h3>
                         <p className="im-text">
-                        The Canadian government is committed tokeeping families together . As such, Canada aims to welcome over 100,000 new immigrants every year to join their family. 
+                        The Canadian government is committed to keeping families together . As such, Canada aims to welcome over 100,000 new immigrants every year to join their family. 
                         <br /><br />
                         Canadian citizens and permanent residents can sponsor their spouses or common-law partners, parents and grandparents , and dependent children.
                         <br /><br />

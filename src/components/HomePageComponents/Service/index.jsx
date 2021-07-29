@@ -28,7 +28,7 @@ const Services = () => {
                   <Link style={{ textDecoration: 'none' }} to='study-permit'>   <ServicesCard>
                         <ServicesIcon src= {Icon2}/>
                         <ServicesH2>Study Permit</ServicesH2>
-                        <ServicesP>Study in Canada to increase your chances of immigratingas a skilled worker.
+                        <ServicesP>Study in Canada to increase your chances of immigrating as a skilled worker. <br />
 
                         </ServicesP>
                     </ServicesCard>
@@ -37,14 +37,14 @@ const Services = () => {
                    <Link style={{ textDecoration: 'none' }} to='Business-immigration'> <ServicesCard>
                         <ServicesIcon src= {Icon3}/>
                         <ServicesH2>Business Migration</ServicesH2>
-                        <ServicesP>Explore investment and business opportunities in one of the world's most freeand stable economies.
+                        <ServicesP>Explore investment and business opportunities in one of the world's most free and stable economies.
                         </ServicesP>
                     </ServicesCard></Link>
                   
                   <Link  style={{ textDecoration: 'none' }} to='familySponsor'>  <ServicesCard>
                         <ServicesIcon src= {Icon4}/>
                         <ServicesH2>Family Sponsorship</ServicesH2>
-                        <ServicesP>Explore investment and business opportunities in one of the world's most freeand stable economies.
+                        <ServicesP>Explore investment and business opportunities in one of the world's most free and stable economies.
                         </ServicesP>
                     </ServicesCard>
                     </Link>
@@ -53,7 +53,7 @@ const Services = () => {
                     <ServicesCard>
                         <ServicesIcon src= {Icon5}/>
                         <ServicesH2>Canadian Work Permits</ServicesH2>
-                        <ServicesP>Find out if you need a Canadian temporarywork permit to work in Canada and how toobtain one.
+                        <ServicesP>Find out if you need a Canadian temporary work permit to work in Canada and how to obtain one.
                         </ServicesP>
                     </ServicesCard>
                     </Link>  

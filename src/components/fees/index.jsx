@@ -1,5 +1,5 @@
 import React from 'react'
-// import feeImage from '../../assets/images/fees.jpg'
+import feeImage from '../../assets/images/fees.jpg'
 import './elements.css'
 
 const FeePage = () => {
@@ -7,19 +7,14 @@ const FeePage = () => {
        <div className="fee-container">
            <div className="fee-wrapper">
                <h1 className="fee-title">Fees</h1>
-               {/* <img src={feeImage} alt="" className="fee-img" /> */}
-               <h3 className="fee-h3">Honesty and transparency are the core foundation of our business. Unlike others, we don’t have any hidden fees or surcharges.</h3>
+               <img src={feeImage} alt="" className="fee-img" />
+               <h3 className="fee-h3" > <br /> Honesty and transparency are the core foundation of our business. <br /> Unlike others, we don’t have any hidden fees or surcharges. <br /> <br /></h3>
 
+            
                <div className="fee-section">
-                   <h5 className="fee-h5">Initial consultation: </h5>
-                   <ul className='fee-list'>
-                       <li>30 minutes- CAD 100</li>
-                       <li>60 minutes- CAD 200</li>
-                   </ul>
-               </div>
-               <div className="fee-section">
-                   <h5 className="fee-h5">Express Entry (FSW/FSTC/CEC):  CAD 5,000 – 5,500 </h5>
+                   <h5 className="fee-h5">Express Entry (FSW/FSTC/CEC): $4000 - $4500 </h5>
                    <p className="fee-text">
+                   You need to send us your CV first, based on which initial assessment will be conducted. If your profile is acceptable-  <br /> <br />
                   <span> 1st Installment $400:</span> Initial Assessment (Initial Consultation & Assessment, Acceptance criteria details, NOC determination and  Skill match according to Canadian job market, Confirmation of acceptability and IELTS score requirements. (We only accept a handful amount of clients who meet the minimum acceptance criteria)
                    
                    </p>
@@ -54,7 +49,7 @@ const FeePage = () => {
                <div className="fee-section">
                    <h3 className="fee-h3">Super Visa starts from  $960 </h3>
                    <p className="fee-text">
-                  <span> 1st Installment $600</span> At Engagement (Initial Consultation, Eligibility review, Advise on required Documents and Information
+                  <span> 1st Installment $600:</span> At Engagement (Initial Consultation, Eligibility review, Advise on required Documents and Information)
                     <br />
                    <span> 2nd Installment:</span> At File Submission
             </p>

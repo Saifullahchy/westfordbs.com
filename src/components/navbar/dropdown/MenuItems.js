@@ -10,12 +10,12 @@ export const MenuItems =[
         cName:'dropdown-link'
     },
     {
-        title: 'Business Immigration ',
+        title: 'Business Migration ',
         path:'/Business-immigration',
         cName:'dropdown-link'
     },
     {
-        title: 'Family SponsorShip',
+        title: 'Family Sponsorship',
         path:'/familySponsor',
         cName:'dropdown-link'
     },

@@ -5,7 +5,7 @@ const News = () => {
     return (
         <div className="news-container">
             <div className="new-wrapper">
-               <h1 className="b-title"> News Will be post soon...</h1>
+               <h1 className="b-title"> News Will be posted soon...</h1>
             </div>
         </div>
     )
