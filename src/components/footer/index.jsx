@@ -49,7 +49,7 @@ const Footer = () => {
                         </FooterLinkItems> */}
                         <FooterLinkItems>
                             <FooterLinksTitle> Contact Info </FooterLinksTitle>
-                                <FooterLink to= "/contactus">Address: <br/>House #28, Road # 07, Niketan,<br/> Gulshan –1, Dhaka- 1212. </FooterLink>
+                                <FooterLink to= "/contactus">Address: <br/>House #28, Road # 07, Block C, Niketan,<br/> Gulshan –1, Dhaka- 1212. </FooterLink>
                                 <FooterLink to= "/contactus">Email: westfordbd@gmail.com</FooterLink>
                                 <FooterLink to= "/">Phone: +8801633661199</FooterLink>
                                 <FooterLink to= "/contactus">Whatsapp/Telegram: +14373889215</FooterLink>
@@ -97,3 +97,4 @@ const Footer = () => {
 }
 
 export default Footer
+ 

@@ -8,7 +8,9 @@ const FeePage = () => {
            <div className="fee-wrapper">
                <h1 className="fee-title">Fees</h1>
                <img src={feeImage} alt="" className="fee-img" />
-               <h3 className="fee-h3" > <br /> Honesty and transparency are the core foundation of our business. <br /> Unlike others, we don’t have any hidden fees or surcharges. <br /> <br /></h3>
+               <h3 className="fee-h3" > <br /> Honesty and transparency are the core foundation of our business. <br /> Unlike others, we don’t have any hidden fees or surcharges. <br /> <br />
+                        All $ amounts are in USD
+               </h3>
 
             
                <div className="fee-section">
@@ -27,7 +29,7 @@ const FeePage = () => {
 4th Installment $3,000:  Document preparation and submission after receiving Invitation to Apply
 ​	​    </p>
 <p className="fee-text">
-                  <span> 4th Installment $2,000:</span> PDocument preparation and submission after receiving Invitation to Apply
+                  <span> 4th Installment $2,000:</span> Document preparation and submission after receiving Invitation to Apply
 </p>
                <p className="fee-text">** Govt charges are separate from above which will be charged with 4th installment</p>    
                </div>
